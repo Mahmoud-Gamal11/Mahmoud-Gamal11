@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mahmoud Gamal
+# 👋 Hi, I'm Mahmoud Gamal
 
 ### Crafting Pixel-Perfect Web Experiences as a Front-End Developer from Egypt
 
