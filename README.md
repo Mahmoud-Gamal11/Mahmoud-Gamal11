@@ -23,9 +23,9 @@
 
 | Project | Tech Stack | Live Demo | Repository |
 |---------|------------|-----------|------------|
-| **Portfolio V2** | React, Tailwind, GSAP | [Live Site](#) | [Repo](#) |
-| **Interactive Dashboard** | JavaScript, Chart.js, Bootstrap | [Live Site](#) | [Repo](#) |
-| **E-Commerce UI** | HTML, Sass, JavaScript | [Live Site](#) | [Repo](#) |
+| **Portfolio ** | React, Tailwind, GSAP | [Live Site](https://mahmoud-gamal11.github.io/My-Portfolio/) | [Repo](https://github.com/Mahmoud-Gamal11/My-Portfolio.git) |
+| **Interactive Dashboard** | JavaScript, Chart.js, Bootstrap | [Live Site](https://mahmoud-gamal11.github.io/Dashboard/) | [Repo](https://github.com/Mahmoud-Gamal11/Dashboard.git) |
+| **Employee Attendance** | HTML, Sass, JavaScript | [Live Site](https://mahmoud-gamal11.github.io/project-employee/) | [Repo](https://github.com/Mahmoud-Gamal11/project-employee.git) |
 
 > **Pro Tip**: Check out my projects for clean code and smooth animations!
 
