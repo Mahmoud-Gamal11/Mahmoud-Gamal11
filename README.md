@@ -14,7 +14,7 @@
 - 🌱 **Learning & Mastering**: Advanced JavaScript, TypeScript, and animation libraries like GSAP.  
 - 👯 **Open to Collaborate**: On open-source UI/UX projects or creative front-end challenges.  
 - 💬 **Ask Me About**: HTML, CSS, JavaScript, React, Sass, Tailwind, and creating smooth animations.  
-- 📫 **Reach Me**: mahmoud.gamal.dev@gmail.com  
+- 📫 **Reach Me**: mahmoudgamal2662005@gmail.com  
 - ⚡ **Fun Fact**: I design interfaces while sipping coffee and vibing to lo-fi beats!  
 
 ---
