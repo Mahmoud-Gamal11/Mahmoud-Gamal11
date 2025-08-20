@@ -61,7 +61,7 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="[www.linkedin.com/in/mahmoud-g-hussien-b9862337]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[[www.linkedin.com/in/mahmoud-g-hussien-b9862337](https://www.linkedin.com/in/mahmoud-g-hussien-b98623378/)]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="[Your Twitter/X Link]"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.maharatech.gov.eg/"><img src="https://img.shields.io/badge/MaharaTech-1E90FF?style=flat-square&logo=book&logoColor=white" alt="MaharaTech" /></a>
