@@ -231,11 +231,11 @@ Concepts I'm currently studying and applying: **MVC**, Layered Architecture, DTO
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Gamal11&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Gamal11&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="410" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Gamal11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud-Gamal11&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mahmoud-Gamal11&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
