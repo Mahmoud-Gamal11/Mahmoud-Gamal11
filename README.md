@@ -6,7 +6,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Front-End+Developer;Learning+Java+%26+Spring+Boot;Building+Toward+Full-Stack;Turning+Ideas+Into+Working+Code" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Mahmoud-Gamal11&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
+<p>
+  <a href="https://github.com/Mahmoud-Gamal11">
+    <img src="https://komarev.com/ghpvc/?username=Mahmoud-Gamal11&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Mahmoud-Gamal11?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mahmoud-Gamal11?label=Followers&style=flat-square&color=00D4FF" alt="GitHub Followers" />
+  </a>
+</p>
 
 </div>
 
@@ -16,14 +23,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a Front-End Developer from Egypt with a solid foundation in **React.js, JavaScript, and modern UI development**. I'm currently expanding into **Java and Spring Boot** to grow into a Full-Stack Developer who can own a product end to end — from the interface a user touches to the API and database behind it.
+I'm a developer from Egypt with a strong foundation in **Front-End Development**, currently expanding into **Java Backend Development with Spring Boot**. I enjoy building modern, responsive, interactive web applications while growing my understanding of backend architecture, databases, APIs, and scalable application design.
 
-- 🎨 Comfortable building responsive, interactive interfaces with **React, Tailwind CSS, and Sass**
-- ☕ Learning **Java, OOP, and the Spring ecosystem** (Spring, Spring Boot, Spring MVC, Spring Data JPA)
-- 🗄️ Getting hands-on with **SQL, JDBC, and relational database design**
-- 🧱 Interested in clean architecture, maintainable code, and understanding how backend systems are structured
-- 🤝 Open to collaborating on front-end or full-stack projects
+- 🎨 Building responsive and interactive user interfaces
+- ⚛️ Developing modern applications with **React.js**
+- ☕ Learning and building backend applications with **Java & Spring Boot**
+- 🔗 Designing and consuming RESTful APIs
+- 🗄️ Working with SQL databases and relational data
+- 🧠 Strengthening problem-solving and software engineering fundamentals
+- 🏗️ Learning clean, maintainable backend architecture
+- 🚀 Working toward projects that combine Frontend + Backend technologies
 - 📫 Reach me at **mahmoudgamal2662005@gmail.com**
+
+> **My goal:** Become a strong Full-Stack Developer — **Java & Spring Boot** as my backend specialization, **React.js** as my frontend stack.
 
 <hr>
 
@@ -42,6 +54,7 @@ I'm a Front-End Developer from Egypt with a solid foundation in **React.js, Java
 - Bootstrap
 - GSAP
 - Responsive & Interactive UI
+- Web Animations
 
 </td>
 <td valign="top" width="33%">
@@ -50,6 +63,7 @@ I'm a Front-End Developer from Egypt with a solid foundation in **React.js, Java
 - Java
 - OOP
 - Collections Framework
+- Generics
 - Exception Handling
 - JDBC
 - Spring / Spring Boot
@@ -75,13 +89,46 @@ I'm a Front-End Developer from Egypt with a solid foundation in **React.js, Java
 
 <hr>
 
-## ☕ Java & Spring Boot Path
-
-```
-Java → OOP → Collections → SQL / JDBC → Spring → Spring Boot → REST APIs → JPA / Hibernate → Database
-```
+## ☕ Java & Spring Boot Journey
 
 I'm building this stack step by step rather than claiming mastery I don't have yet — right now I'm most confident in Java fundamentals and OOP, and actively working through Spring Boot and REST APIs.
+
+```text
+                ☕ Java
+                   │
+                   ▼
+        Object-Oriented Programming
+                   │
+                   ▼
+         Collections & Generics
+                   │
+                   ▼
+          Exception Handling
+                   │
+                   ▼
+              SQL / JDBC
+                   │
+                   ▼
+                 Spring
+                   │
+                   ▼
+              Spring Boot
+                   │
+                   ▼
+               Spring MVC
+                   │
+                   ▼
+              RESTful APIs
+                   │
+                   ▼
+             Spring Data JPA
+                   │
+                   ▼
+                Hibernate
+                   │
+                   ▼
+             Database Design
+```
 
 ## 🏗️ Backend Concepts I'm Learning
 
